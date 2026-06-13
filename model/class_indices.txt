@@ -1,0 +1,7 @@
+0,alluvial
+1,black
+2,clay
+3,laterite
+4,loamy
+5,red
+6,sandy

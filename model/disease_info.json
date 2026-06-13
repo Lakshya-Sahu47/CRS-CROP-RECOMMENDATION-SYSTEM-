@@ -1,0 +1,51 @@
+{
+ "Tomato_healthy": {
+   "en_reason": "Plant is healthy.",
+   "en_solution": "No action required.",
+   "plant_need": "Regular care"
+ },
+
+ "Tomato_Early_blight": {
+   "en_reason": "Fungal disease due to moisture and poor air circulation.",
+   "en_solution": "Remove infected leaves and apply fungicide.",
+   "plant_need": "Balanced nutrition"
+ },
+
+ "Rice_Bacterialblight": {
+   "en_reason": "Bacterial infection due to high humidity.",
+   "en_solution": "Use resistant varieties and avoid excess nitrogen.",
+   "plant_need": "Balanced nitrogen"
+ },
+
+ "Wheat_Rust": {
+   "en_reason": "Fungal infection spreading via wind.",
+   "en_solution": "Apply fungicide and use resistant seeds.",
+   "plant_need": "Potassium"
+
+ }
+ ,
+"Tomato_Late_blight": {
+ "en_reason": "Fungal disease due to wet conditions.",
+ "en_solution": "Use fungicide and remove infected parts.",
+ "plant_need": "Proper airflow"
+},
+
+"Tomato_Bacterial_spot": {
+ "en_reason": "Bacterial infection from contaminated water.",
+ "en_solution": "Avoid overhead watering.",
+ "plant_need": "Balanced nutrition"
+},
+
+"Rice_Brownspot": {
+ "en_reason": "Nutrient deficiency and fungal attack.",
+ "en_solution": "Apply potassium fertilizer.",
+ "plant_need": "Potassium"
+},
+
+"Wheat_Healthy": {
+ "en_reason": "Plant is healthy.",
+ "en_solution": "Maintain regular care.",
+ "plant_need": "Routine irrigation"
+}
+
+}
